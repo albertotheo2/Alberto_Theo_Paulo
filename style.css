@@ -1,0 +1,35 @@
+body{
+ margin: 8px;   
+ background: rgba(0, 255, 255, 0.233);
+}
+nav{
+    position: fixed;
+    display: inline-flex;
+    justify-content: space-between;
+    background: black;
+    right: 20px;
+    color: white;
+}
+nav a{
+text-decoration: none;
+color: white;
+}
+.imag1{
+    position: relative;
+    top: 80px;
+    }
+.imag{    
+width: 200px;
+height: 200px;
+}
+.corpo{
+position: relative;
+top: 100px;         
+}
+input{
+ width: 250px;   
+}
+footer{
+top: 150px;
+position: relative;
+}
